@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on new experience
 - 📫 How to reach me ttalhanazli@gmail.com
 
-Some small games[C#-Unity]
+-Some small games[C#-Unity]
 -https://drive.google.com/file/d/1UierA7k3KBcwLAQNFXAUtbj-psc0LI6i/view?usp=sharing
 -https://drive.google.com/file/d/1fjmu4molOI3pRXp0DtmlPe4PvM5C01b5/view?usp=sharing
 
-some arduino tinkercad project
+-some arduino tinkercad project
 https://www.tinkercad.com/things/cWTp3lvp5Yi-dcmotor-h-kopru-denetleme/editel
 https://www.tinkercad.com/things/ffwZDZT6Z3f-frantic-waasa-kup
 https://www.tinkercad.com/things/7TZ2R0dR1OI-servo-motor
