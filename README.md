@@ -17,6 +17,7 @@ https://www.tinkercad.com/dashboard?type=circuits&collection=designs
 https://www.tinkercad.com/things/aBJQ3zChxer-uyg7-bolumlu-ekran
 https://www.tinkercad.com/things/1Krx7OtovZr-smashing-bigery-bruticus
 
+some arduino projects in written python [raspberry pi]
 and much more...
 <!---
 Tylcha/Tylcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
