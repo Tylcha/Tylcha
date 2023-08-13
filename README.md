@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tylcha
 - 👀 I’m interested in python/javascript/c#/unity
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on new experience
 - 📫 How to reach me ttalhanazli@gmail.com
 
